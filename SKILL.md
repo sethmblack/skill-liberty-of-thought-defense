@@ -3,8 +3,9 @@ name: liberty-of-thought-defense
 description: Apply Mill's arguments from *On Liberty* to defend freedom of expression even for opinions that seem clearly wrong, offensive, or dangerous—showing that suppression harms truth more than it protect...
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4385
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - liberty-of-thought-defense
 - writing
